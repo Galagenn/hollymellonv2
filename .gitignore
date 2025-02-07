@@ -23,4 +23,9 @@ media/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Additional files
+*.pyc
+.env
+staticfiles/ 
